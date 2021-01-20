@@ -8,6 +8,7 @@
  * @param {string} afterMessageId Only delete messages after this, leave blank do delete all
  * @author Victornpb <https://www.github.com/victornpb>
  * @see https://gist.github.com/victornpb/135f5b346dea4decfc8f63ad7d9cc182
+ * THIS WAS FORKED OFF VICTORS WITH MINOR EDITS AND TOUCHES TO SMOOTHEN API USAGE
  */
 function deleteMessages(authToken, authorId, channelId, afterMessageId) {
     const start = new Date();
