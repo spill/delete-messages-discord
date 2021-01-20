@@ -1,8 +1,6 @@
 # ry
-A simplistic tool for deleting discord messages automatically
+A repo containing anything that i've referred back to frequently
 
 Disclaimer: Use at your own risk
 
-This is a forked version of victor's
 
-Simply paste the code into your inspect element console, additionally adding your token
