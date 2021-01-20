@@ -1,4 +1,4 @@
-# ryan-essentials
+# ry
 A simplistic tool for deleting discord messages automatically
 
 Disclaimer: Use at your own risk
